@@ -1,7 +1,7 @@
-## 💻 Sobre mí
+## 💾 Sobre mí
 
-- 🧑‍💻 **Desarrollador de software en formación**
-- 🌐 **Desarrollo Web**
+- 💿 **Desarrollador de software en formación**
+- 📊 **Desarrollo Web**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Soy tecnólogo en **Análisis y Desarrollo de Software en formación**, con conocimientos en **HTML, CSS, JavaScript, Python**.  
