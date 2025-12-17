@@ -7,9 +7,9 @@
 Soy tecnólogo en **Análisis y Desarrollo de Software en formación**, con conocimientos en **HTML, CSS, JavaScript, Python**.  
 Me caracterizo por ser una persona **responsable, comprometida**, **bueno en trabajo en equipo** y con una fuerte orientación al **aprendizaje continuo**.
 
-Durante mi proceso formativo he desarrollado proyectos académicos y personales enfocados en la **creación de aplicaciones web** y **resolución de problemas**, aplicando buenas prácticas de programación y trabajo colaborativo con **Git y GitHub**.
+En mi proceso formativo he desarrollado proyectos académicos enfocados en la **creación de aplicaciones web** y **resolución de problemas**, aplicando buenas prácticas de programación y trabajo colaborativo con **Git y GitHub**.
 
-Me gusta enfrentar nuevos desafíos, adaptarme rápidamente a nuevos entornos y aportar soluciones prácticas, eficientes y bien estructuradas.
+Me gusta enfrentar nuevos desafíos, se adaptarme rápidamente a nuevos entornos, eficientes y bien estructuradas.
 
 ---
 
