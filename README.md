@@ -14,7 +14,7 @@ En mi proceso formativo he desarrollado proyectos académicos enfocados en la **
 ## 🌐 Redes Sociales
 [![Email](https://img.shields.io/badge/Email-jeremyl1524v%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeremyl1524v@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JbLopez333)JbLopez333
+[![GitHub](https://img.shields.io/badge/GitHub-JbLopez333-181717?style=plastic&logo=github&logoColor=white)](https://github.com/JbLopez333)
 
 ---
 
