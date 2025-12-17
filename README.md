@@ -9,8 +9,6 @@ Me caracterizo por ser una persona **responsable, comprometida**, **bueno en tra
 
 En mi proceso formativo he desarrollado proyectos académicos enfocados en la **creación de aplicaciones web** y **resolución de problemas**, aplicando buenas prácticas de programación y trabajo colaborativo con **Git y GitHub**.
 
-Me gusta enfrentar nuevos desafíos, se adaptarme rápidamente a nuevos entornos, eficientes y bien estructuradas.
-
 ---
 
 ## 🌐 Redes Sociales
